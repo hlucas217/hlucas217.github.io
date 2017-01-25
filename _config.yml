@@ -18,23 +18,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: hlucas@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
-  google_plus:
+  github: hlucas217
+  google_plus: hlucas
   instagram:
-  linkedin:  # Full URL
-  pinterest:
+  linkedin:  https://www.linkedin.com/in/heather-schall-lucas-8531a94a
+  pinterest: heatherl0768
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: @meowveg
   wordpress:
   youtube:
 
