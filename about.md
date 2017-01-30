@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/Heather-Schall-Lucas.png"
+feature-img: "img/lucas.png"
 ---
 
 For most of her career, Heather bravely entered the hormonal world of teens and pre-teens in order to teach math and reading to struggling, mostly reluctant students. Her experience with this population has prepared her for the creative problem solving she needs in web development. 
