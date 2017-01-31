@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Full-Stack Web Developer and Changemaker</h1>
-     <p>Determined to change the world through code, one byte at a time.</p>
+     <h1>Web Developer and Changemaker</h1>
+     <p>Determined to make the world better through code, one byte at a time.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a>.
